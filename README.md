@@ -23,4 +23,4 @@ The full data analysis is available in the [Jupyter Notebook](https://github.com
 
 ## Key Visualizations 📊  
 
-The full project data analysis and key plots can be found [here](https://docs.google.com/presentation/d/1vMptD_ITOo0KKB8Lr5m-Ttb7etyQI4YY/edit?usp=sharing&ouid=114475462965377767015&rtpof=true&sd=true).  
+The full project data analysis and key plots can be found [here](https://drive.google.com/file/d/1_QQJ7c0cL7f91VSpa7rObnylZE6JgZd1/view?usp=sharing).  
